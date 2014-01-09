@@ -1,0 +1,55 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header,  hgroup, menu, nav, section, menu, time, mark, audio, video {margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:transparent;}
+
+body {
+	background: #333;
+}
+
+header {
+	background: white;
+	padding: 10px 0;
+}
+
+section {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Open Sans Condensed';
+}
+
+h1 {
+	font-size: 40px;
+	color: #549621;
+	margin: -10px 0;
+}
+
+h2 {
+	font-size: 25px;
+	color: #777;
+}
+
+h3 {
+	font-size: 20px;
+	color: #555;
+	background: #eee;
+	padding: 0 10px;
+}
+
+article {
+	background: white;
+	color: black;
+	border-radius: 3px;
+	margin: 10px 0;
+	padding: 10px 0;
+}
+
+p {
+	padding: 10px;
+}
+
+ol {
+	list-style-position: inside;
+	padding: 0 10px 10px;
+}
